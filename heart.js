@@ -1,6 +1,6 @@
 /* a Pen by Diaco m.lotfollahi  : https://diacodesign.com */
 
-var container = document.getElementById('hearContainer'),
+var container = document.getElementById('heartContainer'),
   bigHeart = document.getElementById('bigHeart'),
   shadow = document.getElementById('shadow'),
   heartSrc = bigHeart.getAttribute('src'),
